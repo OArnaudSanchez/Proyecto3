@@ -1,0 +1,6 @@
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\bin\Debug\CLogica.dll
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\bin\Debug\CLogica.pdb
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\obj\Debug\CLogica.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\obj\Debug\CLogica.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\obj\Debug\CLogica.dll
+C:\Users\Administradorr\source\repos\Proyecto2\CLogica\obj\Debug\CLogica.pdb

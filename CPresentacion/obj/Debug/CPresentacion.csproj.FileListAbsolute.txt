@@ -1,0 +1,13 @@
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.csprojAssemblyReference.cache
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.Presentacion.resources
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.Properties.Resources.resources
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.csproj.GenerateResource.cache
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\bin\Debug\CPresentacion.exe.config
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\bin\Debug\CPresentacion.exe
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\bin\Debug\CPresentacion.pdb
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\bin\Debug\CLogica.dll
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\bin\Debug\CLogica.pdb
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.csproj.CopyComplete
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.exe
+C:\Users\Administradorr\source\repos\Proyecto2\CPresentacion\obj\Debug\CPresentacion.pdb
